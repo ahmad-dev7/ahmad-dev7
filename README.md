@@ -1,4 +1,3 @@
-<img src="https://lh3.googleusercontent.com/pw/ABLVV86dl41tCkC1w0OqEw3omchoxnXkQC9gmSDJ5vW1V_zoQ7hDS3W_3nKnAs1AhN3g-PWwSANe4wmAZwNCQf9M8gn4R7sfUY5wB_G49Qa2wMPBq5Uc-c3_Tc-EUNYkPK-07RoeqjPzl389wVtzdiwiuvYr=w576-h288-s-no-gm?authuser=0" alt="Background image" style="width: 100%; height:350px;">
 <h1 align="center">Hi 👋, I'm 𝐀𝐡𝐦𝐚𝐝 𝐀𝐥𝐢</h1>
 <h3 align="center">Dedicated computer science student committed to continuous learning and growth.</h3>
 
