@@ -11,11 +11,11 @@
 
 - 🧑🏻‍🎓 Languages I know **Flutter, PHP, SQL, C, Python, Dart, JavaScript, Java, HTML & CSS**
 
-- 👨‍💻 Visit my LinkedIn profile [https://www.linkedin.com/in/aali-dev/](https://www.linkedin.com/in/aali-dev/)
+- 👨‍💻 Visit my LinkedIn profile [Linked In](https://www.linkedin.com/in/aali-dev/) 
 
 - 💬 Ask me about **Web or Mobile App development.**
 
-- 📫 How to reach me **aali.dev7@gmail.com**
+- 📫 How to reach me [Mail](aali.dev7@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
