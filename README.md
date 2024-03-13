@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **gain new skills**
 
-- 🧑🏻‍🎓 Languages I know **C, Python, Dart, JavaScript, Java, HTML & CSS**
+- 🧑🏻‍🎓 Languages I know **Flutter, PHP, SQL, C, Python, Dart, JavaScript, Java, HTML & CSS**
 
 - 👨‍💻 Visit my LinkedIn profile [https://www.linkedin.com/in/aali-dev/](https://www.linkedin.com/in/aali-dev/)
 
