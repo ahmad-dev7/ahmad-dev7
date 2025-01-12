@@ -1,11 +1,10 @@
 ## Hi 👋, I'm 𝐀𝐡𝐦𝐚𝐝 𝐀𝐥𝐢
--	Full Stack Mobile and Web developer with technologies like [Flutter, GetX, BLoC, Firebase] and [React.Js, MongoDB, Node.Js].
--	Skilled in optimizing applications for performance and responsiveness and efficient state management, with a focus on User-friendly and aesthetic designs.
--	Proven ability to collaborate effectively in team environments, manage time efficiently, and troubleshoot technical challenges.
--	Expertise in mobile and web technologies, and using Agile methodologies to deliver high-quality projects on time.
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-dev7&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-dev7" /> </p>
+
+-	Full Stack Mobile and Web developer with technologies like **[Flutter, GetX, BLoC, Firebase]** and **[React.Js, MongoDB, Node.Js]**.
+-	Skilled in optimizing applications for **performance** and **responsiveness** and efficient state management, with a focus on User-friendly and aesthetic designs.
+-	Proven ability to collaborate effectively in team environments, manage time efficiently, and troubleshoot technical challenges.
+-	Expertise in mobile and web technologies, and using **Agile methodologies** to deliver high-quality projects on time.
 
 - 📱 Portfolio web-app [Portfolio](https://ahmad-portfolio-webapp.web.app/)
 - 📫 How to reach me [Mail](aali.dev7@gmail.com)
