@@ -1,20 +1,13 @@
-<h1 align="center">Hi 👋, I'm 𝐀𝐡𝐦𝐚𝐝 𝐀𝐥𝐢</h1>
-<h3 align="center">Dedicated computer science student committed to continuous learning and growth.</h3>
+## Hi 👋, I'm 𝐀𝐡𝐦𝐚𝐝 𝐀𝐥𝐢
+-	Full Stack Mobile and Web developer with technologies like [Flutter, GetX, BLoC, Firebase] and [React.Js, MongoDB, Node.Js].
+-	Skilled in optimizing applications for performance and responsiveness and efficient state management, with a focus on User-friendly and aesthetic designs.
+-	Proven ability to collaborate effectively in team environments, manage time efficiently, and troubleshoot technical challenges.
+-	Expertise in mobile and web technologies, and using Agile methodologies to deliver high-quality projects on time.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-dev7&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-dev7" /> </p>
 
 - 📱 Portfolio web-app [Portfolio](https://ahmad-portfolio-webapp.web.app/)
-
-- 🌱 I’m currently learning **Flutter, DSA**
-
-- 👯 I’m looking to collaborate on **gain new skills**
-
-- 🧑🏻‍🎓 Languages I know **Flutter, PHP, SQL, C, Python, Dart, JavaScript, Java, HTML & CSS**
-
-- 👨‍💻 Visit my LinkedIn profile [Linked In](https://www.linkedin.com/in/aali-dev/) 
-
-- 💬 Ask me about **Web or Mobile App development.**
-
 - 📫 How to reach me [Mail](aali.dev7@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
